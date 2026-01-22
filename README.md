@@ -896,10 +896,7 @@ SOFTWARE.
 
 ## 📞 Contact
 
-**Author:** Terry  
-**Email:** [Your Email]  
-**GitHub:** [Your GitHub Profile]  
-**LinkedIn:** [Your LinkedIn Profile]
+**Author:** Aqua Foundation
 
 ---
 
@@ -928,4 +925,5 @@ SOFTWARE.
 [Back to Top](#aquaos---a-modern-macos-inspired-operating-system)
 
 </div>
+
 
