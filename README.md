@@ -448,7 +448,7 @@ brew install gcc make xorriso mtools qemu
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/aquaos.git
+git clone https://github.com/Aqua-Foundation/AquaOS.git
 cd aquaos
 ```
 
@@ -928,3 +928,4 @@ SOFTWARE.
 [Back to Top](#aquaos---a-modern-macos-inspired-operating-system)
 
 </div>
+
